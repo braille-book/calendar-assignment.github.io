@@ -1,3 +1,18 @@
+## Table of Contents
+
+* [Overview](#overview)
+* [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
+* Sprint Projects
+  * [Sprint 1](https://github.com/braille-book/calendar-assignment/projects/1 "M1")
+
+* [Community Feedback](#community-feedback)
+* [Team Members](#team-members)
+
+[Web Application Deployment](http://uh-manoa-marketplace.meteorapp.com/#/)
+
+[GitHub Code](https://github.com/braille-book/calendar-assignment)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/braille-book/calendar-assignment.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
