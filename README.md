@@ -4,7 +4,7 @@
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
 * Sprint Projects
-  * [Sprint 1](https://github.com/braille-book/calendar-assignment/projects/1 "M1")
+  * [Sprint 1](https://github.com/braille-book/calendar-assignment/projects/1 "sprint-1")
 
 * [Community Feedback](#community-feedback)
 * [Team Members](#team-members)
