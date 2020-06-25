@@ -6,6 +6,10 @@
 * Sprint Projects
   * [Sprint 1](https://github.com/braille-book/calendar-assignment/projects/1 "sprint-1")
   * [Sprint 2](https://github.com/braille-book/calendar-assignment/projects/2 "sprint-2")
+  * [Sprint 3](https://github.com/braille-book/calendar-assignment/projects/3 "sprint-3")
+  * [Sprint 4](https://github.com/braille-book/calendar-assignment/projects/4 "sprint-4")
+  * [Sprint 5](https://github.com/braille-book/calendar-assignment/projects/5 "sprint-5")
+
 
 * [Community Feedback](#community-feedback)
 * [Team Members](#team-members)
